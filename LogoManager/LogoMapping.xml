@@ -20,13 +20,13 @@
     <Item Name="6rn HD">
       <Satellite />
     </Item>
-    <Item Name="6'eren HD">
+    <Item Name="6&#39;eren HD">
       <Satellite />
     </Item>
     <Item Name="6´eren HD">
       <Satellite />
     </Item>
-    <File>6'eren HD.png</File>
+    <File>6&#39;eren HD.png</File>
   </Channel>
   <Channel>
     <Item Name="6&#39;eren">
@@ -35,16 +35,16 @@
     <Item Name="6´eren">
       <Satellite />
     </Item>
-    <File>6'eren.png</File>
+    <File>6&#39;eren.png</File>
   </Channel>
   <Channel>
-    <Item Name="7'eren">
+    <Item Name="7&#39;eren">
       <Satellite />
     </Item>
     <Item Name="7´eren">
       <Satellite />
     </Item>
-    <File>7'eren.png</File>
+    <File>7&#39;eren.png</File>
   </Channel>
   <Channel>
     <Item Name="AAG">
